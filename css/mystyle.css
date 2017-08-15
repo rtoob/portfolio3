@@ -1,0 +1,170 @@
+/* NAVBAR */
+
+.menuSite{
+  background-color: #212121;
+}
+
+#home .brand-logo{
+    font-size: 20px;
+    margin-left: 100px;
+    letter-spacing: 3px;
+    font-family: 'Roboto+Condensed', sans-serif;
+    color: #FAFAFA;
+}
+
+#home img{
+    width: 50px;
+    height: 50px;
+}
+
+.brand-logo span{
+    color: #0097A7;
+
+}
+
+#home .ancora{
+    margin-right: 60px;
+    color: #fafafa;
+    font-family: 'Assistant', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+
+}
+
+#mobile-demo {
+    background-color: #212121;
+    color: #EF5350;
+
+}
+
+#mobile-demo .ancora{
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+#mobile-demo img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 35px;
+    margin-left: 25px;
+}
+
+/* HEADER */
+
+.parallax-container h3{
+    color: #e0e0e0;
+    font-family: 'Cousine', monospace;
+}
+
+
+ /* ABOUT */
+
+.about{
+    text-align: center;
+    background-color: #EEEEEE;
+    padding: 50px 0 40px;
+    height: 100%;
+}
+
+
+#about h4{
+    padding: 10px;
+    margin-bottom: 35px;
+    font-family: 'Cousine', monospace;
+    color: #E57373;
+}
+
+#about p{
+    margin-top: 105px;
+    padding: 70px;
+    font-size: 18px;
+    font-family: 'Assistant', sans-serif;
+    background-color: #FAFAFA;
+    color: #212121;
+    font-weight: 300;
+ }
+
+#about img{
+  height: 250px;
+  width: 250px;
+  border-radius: 20%;
+  margin-bottom: 25px;
+}
+
+/* SPACE */
+
+.space{
+    text-align: center;
+    background-color: #FAFAFA;
+    padding: 10px 0 10px;
+}
+
+.space h4{
+    color: #E57373;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    font-family: 'Cousine', monospace;
+}
+
+.space h5{
+    color: #424242;
+    font-family: 'Assistant', sans-serif;   
+}
+
+/*#parala{
+    height: 250px;
+}*/
+
+
+/* WORKS */
+
+.works{
+    background-color: #EEEEEE;
+    padding: 30px 0 120px;
+}
+
+.works h4{
+    text-align: center;
+    font-family: 'Cousine', monospace;  
+    color: #E57373;
+}
+
+.works img{
+    margin-top: 40px;
+}
+
+/* CONTACT */
+
+#contact h4{
+    margin-top: 25px;
+    text-align: center;
+    color: #E57373;
+    font-family: 'Cousine', monospace;
+}
+
+/*FOOTER*/
+
+.page-footer{
+    padding: 25px;
+    background-color: #212121;
+    text-align: center;
+    letter-spacing: 3px;
+    font-family: 'Catamaran', sans-serif;
+}
+
+.page-footer i{
+    color: #F5F5F5;
+    font-size: 26px;
+}
+
+.footer-copyright{
+    font-size: 20px;
+}
+
+.footer-copyright span{
+    color: #0097A7;   
+}
+
+
